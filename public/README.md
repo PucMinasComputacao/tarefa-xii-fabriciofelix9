@@ -1,0 +1,30 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Bzc59wLb)
+# Trabalho Prático - Semana 12
+
+Nesta atividade, você vai utilizar a Fetch API para consumir dados reais de filmes a partir da The Movie DB (TMDBLinks to an external site.) e montar uma página que liste os resultados em cards, incluindo uma funcionalidade de pesquisa ou filtro. A ideia é que você pratique o fluxo completo de requisição assíncrona → tratamento dos dados → renderização no DOM → interação do usuário.
+
+A atividade foi pensada para ser concluída em até 1h no laboratório, usando Visual Studio Code e um navegador.
+
+ 
+
+Habilidades a serem trabalhadas
+Consumo de APIs externas por meio de requisições assíncronas com Fetch API
+Processamento de dados em JSON retornado pela APIs RESTful
+Apresentação dinâmica de dados em páginas via manipulação do DOM
+Implementação de lógicas de programação para montagem de componentes e pesquisa ou filtro de dados
+Tratamento básico de erros em requisições
+
+## Informações Gerais
+
+- Nome:Fabricio Felix Gomes
+- Matricula: 918281
+
+## Prints do trabalho
+
+<<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
+![alt text](<Captura de tela 2026-05-23 164100.png>)
+
+<<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
+
+<<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
+
